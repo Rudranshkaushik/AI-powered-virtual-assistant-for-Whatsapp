@@ -25,8 +25,7 @@ This project demonstrates how to deploy a fine-tuned GPT-2 model as a Flask web 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/gpt2-whatsapp-chatbot.git
-   cd gpt2-whatsapp-chatbot
+   git clone https://github.com/your-username/AI-powered-virtual-assistant-for-whatsapp
    ```
 
 2. **Create and activate a virtual environment:**
